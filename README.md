@@ -24,3 +24,7 @@ You can contribute to our DAO by
   - Pro-gaming management
 
 More coming soon!
+
+# Current progress
+
+We have a formula to earn 200% profit consistently from major play-to-earn games! More formulas are coming soon. Join our community to learn more!
