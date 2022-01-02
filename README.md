@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# About EarnDAO
 
-You can use the [editor on GitHub](https://github.com/earndao/earndao.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Introducing EarnDAO. We're an experiment of company-building-focused DAO where we build a profitable and sustainable DAO in the x-to-earn economy. Our very first iteration is a NFT games trading organization where we aim to be the [D.E. Shaw](https://www.deshaw.com/) of the Metaverse.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We aim to build the most sustainable and profitable DAO in the metaverse and recruits the brightest mind in the world to help us harness profit in the inefficient market of Metaverse today.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# How to join?
 
-```markdown
-Syntax highlighted code block
+You can join us by joining our early stage community here
 
-# Header 1
-## Header 2
-### Header 3
+- [Discord](https://discord.gg/QnFrkgGGNa)
+- [Twitter](https://twitter.com/daoearn)
+- [GitHub](https://github.com/earndao)
 
-- Bulleted
-- List
+You can contribute to our DAO by
 
-1. Numbered
-2. List
+- Participating in the pre-sales and IDO (Initial DEX Offering) of our upcoming governance token!
+- Joining guilds or alliances inside our DAO which includes the following
+  - Trading
+  - Arbitrage research
+  - Game research and exploration
+  - Community bulding
+  - Pro-gaming management
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/earndao/earndao.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+More coming soon!
